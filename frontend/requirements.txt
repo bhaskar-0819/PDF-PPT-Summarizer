@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+openai
+openpyxl
+python-dotenv
+fpdf2
+pymupdf
+python-pptx
+faiss-cpu
+Pillow
